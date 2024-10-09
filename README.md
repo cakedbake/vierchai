@@ -1,3 +1,2 @@
 # projektas
-as esu Alanas
-Aš esu AivarasĄĄĄĄ
+Labas Alanai
