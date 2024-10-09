@@ -1,2 +1,2 @@
 # projektas
-As Esu Aleksandr
+Aš esu AivarasĄĄĄĄ
