@@ -1,3 +1,4 @@
+<<<<<<< HEAD
     * {
         margin: 0;
         padding: 0;
@@ -152,3 +153,19 @@
         text-align: center ;
         
     }
+=======
+img{
+    width: 500px;
+    
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+.price-container, .button-container{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+}
+>>>>>>> ecbbdcffb7c18c06187abfc972ea55f2be2b2988
