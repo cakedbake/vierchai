@@ -1,0 +1,14 @@
+img{
+    width: 500px;
+    
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+.price-container, .button-container{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+}
